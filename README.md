@@ -9,7 +9,9 @@
 DataDoctor is an interactive data quality analysis application built with Python and Streamlit. It helps users identify common data-quality problems, apply cleaning operations, and compare dataset quality before and after cleaning.
 
 Upload a CSV or Excel file, explore its quality issues, choose cleaning options, and download the cleaned dataset along with a PDF quality report.
+## 📸 Application Preview
 
+![DataDoctor Home Screen](images/datadoctor-home.png)
 ## ✨ Features
 
 - **Dataset Upload:** Supports CSV and Excel files.
