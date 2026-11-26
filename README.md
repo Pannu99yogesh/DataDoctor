@@ -10,10 +10,6 @@ DataDoctor is an interactive data quality analysis application built with Python
 
 Upload a CSV or Excel file, explore its quality issues, choose cleaning options, and download the cleaned dataset along with a PDF quality report.
 
-## 📸 Application Preview
-
-![DataDoctor Home Screen](images/datadoctor-home.png)
-
 ## ✨ Features
 
 - **Dataset Upload:** Supports CSV and Excel files.
